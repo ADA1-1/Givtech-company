@@ -13,5 +13,5 @@ nav a,.social a{text-decoration:none;color:#444;margin:0 10px}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
 .card{background:#fff;padding:28px;border-radius:18px;box-shadow:0 10px 30px rgba(0,0,0,.08)}
 section{padding:60px 8%}
-form input,form textarea{width:100%;padding:12px;margin:10px 0;border:1px solid #ddd;border-radius:12px background:#00FFOO, #FF0000, #87CEEEB;}
+form input,form textarea{width:100%;padding:12px;margin:10px 0;border:1px solid #ddd;border-radius:12px; background:(#00FFOO, #FF0000, #87CEEEB)}
 footer{padding:30px;text-align:center
